@@ -1,0 +1,9 @@
+Essays
+-------
+Welcome to Essays, a collection of academic papers written by myself, Norton Jenkins, for High School grades 11 and above. To avoid plagarism detection, I am reversing the lines of the essay and the characters in the line of all the essays. For this, I rolled my own simple Haskell program, which is located in the root directory of this repo. You can use the binary, or run "make clean install" as root to get it up and running. Running this on a reversed file will un-reverse it.
+
+The command-line arguments for the program are (reversefile TO_REVERSE OUTPUT_FILE).
+
+License
+--------
+All works from this level down in the directory layout adhere to the GDFL, which is included under the "LICENSE" file.
